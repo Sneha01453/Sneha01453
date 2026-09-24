@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Sneha%20Samanta&textBg=true&fontSize=60&animation=blinking" /> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Sneha%20Samanta&fontSize=60&animation=blinking" /> 
 </div>
 
 <h3>👩‍💻About Me</h3>
