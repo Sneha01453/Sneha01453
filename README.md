@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Sneha%20Samanta&fontSize=60&animation=blinking" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sneha%20Samanta&fontSize=60&animation=blinking" /> 
 </div>
 
-<h3>👩‍💻About Me</h3>
+<h3 align="center">👩‍💻About Me</h3>
 <p>🌐 Passionate about Web Development and building practical web applications</p>
 <p>🎓B.Tech CSE student at Techno India University(Graduating 2027)</p>
 <p>💡 I enjoy turning ideas into real-world projects</p>
