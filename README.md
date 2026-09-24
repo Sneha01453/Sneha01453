@@ -5,7 +5,7 @@
 
 ### 👩‍💻About Me
 <p>🌐 Passionate about Web Development and building practical web applications</p>
-<p>🎓B.Tech CSE student at Techno India University(Graduating 2027)</p>
+<p>🎓B.Tech CSE student at Techno India University (Graduating 2027)</p>
 <p>💡 I enjoy turning ideas into real-world projects</p>
 <p>🚀 Building full-stack web applications using React, JavaScript, Node.js, Express.js, MongoDB and SQL</p>
 <p>🤖 Exploring AI and LLM-based applications, with a focus on understanding how modern AI systems can be integrated into software</p>
@@ -24,5 +24,8 @@
 **Tools:** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<hr>
+## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-samanta-332942259)
 
