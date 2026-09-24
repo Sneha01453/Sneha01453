@@ -9,6 +9,7 @@
 <p>💡 I enjoy turning ideas into real-world projects</p>
 <p>🚀 Building full-stack web applications using React, JavaScript, Node.js, Express.js, MongoDB and SQL</p>
 <p>🤖 Exploring AI and LLM-based applications, with a focus on understanding how modern AI systems can be integrated into software</p>
+<hr>
 
 ### 🛠️ Tech Stack
 
