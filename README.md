@@ -1,8 +1,8 @@
 <div align="center">
-## Hi👋,I'm Sneha Samanta
-### Computer Science Student 
+<h1>Hi👋,I'm Sneha Samanta</h1> 
+<h1>Computer Science Student </h1> 
 </div>
-## About Me
+<p>About Me</p>
 <!--
 **Sneha01453/Sneha01453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
