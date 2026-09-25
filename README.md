@@ -6,11 +6,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Turning+ideas+into+real-world+projects;Exploring+AI+%26+LLM-based+apps" alt="Typing SVG" />
 </a>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Turning+ideas+into+real-world+projects;Exploring+AI+%26+LLM-based+apps" alt="Typing SVG" />
-</a>
 
-<br/>
 <br/>
 
 ![Location](https://img.shields.io/badge/Kolkata-India-f8b4c4?style=flat-square&logo=googlemaps&logoColor=white)
