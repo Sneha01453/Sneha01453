@@ -15,6 +15,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="400">
+</div>
 
 ### 👩‍💻 About Me
 
