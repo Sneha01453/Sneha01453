@@ -6,7 +6,11 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Turning+ideas+into+real-world+projects;Exploring+AI+%26+LLM-based+apps" alt="Typing SVG" />
 </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Turning+ideas+into+real-world+projects;Exploring+AI+%26+LLM-based+apps" alt="Typing SVG" />
+</a>
 
+<br/>
 <br/>
 
 ![Location](https://img.shields.io/badge/Kolkata-India-f8b4c4?style=flat-square&logo=googlemaps&logoColor=white)
@@ -15,9 +19,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="400">
-</div>
 
 ### 👩‍💻 About Me
 
@@ -54,7 +55,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Wanderlust**](https://github.com/Sneha01453/wanderlust)  | Node.js · Express · MongoDB |
+| [**Wanderlust**](https://github.com/Sneha01453/wanderlust)  | Travel listing app — browse, add and review stays| Node.js · Express · MongoDB |
 
 ---
 
