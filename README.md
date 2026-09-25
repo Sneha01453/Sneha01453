@@ -15,7 +15,11 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400">
+</div>
 
+---
 ### 👩‍💻 About Me
 
 - 🌐 Passionate about web development and building practical web applications
