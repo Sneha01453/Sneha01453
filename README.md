@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me
 
 - 🌐 Passionate about web development and building practical web applications
--🎓 B.Tech CSE student at **Techno India University** (Class of 2027)
+- 🎓 B.Tech CSE student at **Techno India University** (Class of 2027)
 - 🚀 Building full-stack apps with **React, JavaScript, Node.js, Express.js, MongoDB and SQL**
 - 🤖 Exploring AI and LLM-based applications, and how modern AI systems can be integrated into software
 - 💡 I enjoy turning ideas into real-world projects
